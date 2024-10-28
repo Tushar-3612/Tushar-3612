@@ -24,8 +24,8 @@ I am a **civil engineering student** passionate about programming and technology
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm currently pursuing a **B.Tech in Civil Engineering**
-- 🔭 I’m currently working on **developing a personalized meal plan generator** in web development.
+- 👨‍🎓 I'm currently pursuing a **B.Tech in Computer Engineering**
+- 🔭 I’m currently working on  **web development,DSA,,AI-ML**.
 - 👨‍🏫 I love **exploring new technologies** and constantly learning.
 - 💬 Ask me about anything, I am happy to help!
 - ✍ I am also working on **improving my coding skills** through platforms like LeetCode.
