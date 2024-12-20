@@ -41,6 +41,9 @@ I am a **Computer Engineering Student** passionate about **programming, technolo
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="40" alt="C++" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="Python" /></a>
   <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" alt="Java" /></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" alt="JavaScript" /></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" alt="HTML5" /></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" alt="CSS3" /></a>
 
 - **Web Development**: HTML, CSS, JavaScript, React.
 - **Tools**: Git, GitHub, VS Code.
@@ -65,4 +68,8 @@ I am a **Computer Engineering Student** passionate about **programming, technolo
 
 ### 🔗 Connect with Me:
 
-Feel free to connect with me on LinkedIn, Twitter, and Instagram (links above). Let's collaborate and create amazing solutions together!
+- <a href="https://www.linkedin.com/in/tushar-nagare-5a17b9287/" target="_blank">LinkedIn</a>  
+- <a href="https://x.com/Tushar__3612" target="_blank">Twitter</a>  
+- <a href="https://www.instagram.com/tushar__3612/" target="_blank">Instagram</a>
+
+Let's collaborate and create amazing solutions together!
