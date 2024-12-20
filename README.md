@@ -1,40 +1,63 @@
-Here’s the updated version of your profile with the correction:  
-
----
-
 # Welcome to [Tushar Nagare](https:///Tusshar123/) profile!  
 
 <a href="https://www.linkedin.com/in/tushar-nagare-5a17b9287/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-nagare" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tushar Nagare LinkedIn" height="30" width="40" />
 </a>
-&nbsp;
-
 <a href="https://x.com/Tushar__3612" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tushar__3612" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tushar__3612 Twitter" height="30" width="40" />
 </a>
-&nbsp;
-
 <a href="https://www.instagram.com/tushar__3612/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar__3612" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tushar Nagare Instagram" height="30" width="40" />
 </a>
-&nbsp;
 
+---
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tushar.Nagare)
 
-I am a **computer engineering student** passionate about programming and technology. I am driven by my desire to apply my skills in both engineering and software development to create solutions that can make a meaningful impact.
+I am a **Computer Engineering Student** passionate about **programming, technology**, and **problem-solving**. I aim to leverage my skills in software development and engineering to build impactful solutions.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="Coding" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-### Talking about Personal Stuff:
+### 🧑‍💻 Personal Highlights:
 
-- 👨‍🎓 I'm currently pursuing a **B.Tech in Computer Engineering**
-- 🔭 I’m currently working on **web development, DSA, AI-ML**.
-- 👨‍🏫 I love **exploring new technologies** and constantly learning.
-- 💬 Ask me about anything, I am happy to help!
-- ✍ I am also working on **improving my coding skills** through platforms like LeetCode.
-- 🌱 I’m currently learning: 
-  - Advanced **Python** programming
-  - **JavaScript** for web development
+- 👨‍🎓 **Education**: Pursuing a **B.Tech in Computer Engineering**.
+- 💻 **Proficient in**: 
+  - **Programming Languages**: C, C++, Python, Java.
+  - **Web Development**: HTML, CSS, JavaScript, Full Stack Development.
+- 🛠️ **Current Work**: 
+  - Data Structures and Algorithms (DSA) using C, C++, and Python.
+  - Designing user-friendly websites.
+- 🌟 **Key Projects**: Built a responsive website for health and well-being.
+- 🌱 **Learning Goals**:
+  - Advanced **JavaScript** and **Node.js** for Full Stack Development.
+  - **Machine Learning (AI-ML)** concepts.
+- 🧠 **Interests**: Exploring new technologies, competitive coding, and solving real-world problems.
+- 💬 **Reach Out**: Feel free to ask me anything; I am always open to discussions and collaborations.
+
+### 🛠️ Skills:
+
+- **Languages**: C, C++, Python, Java.
+- **Web Development**: HTML, CSS, JavaScript, React.
+- **Tools**: Git, GitHub, VS Code.
+- **Technologies**: AI/ML Basics, REST APIs, Full Stack Web Development.
 
 ---
+
+### 📊 GitHub Stats
+
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusshar123&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusshar123&layout=compact&theme=radical)](https://github.com/Tusshar123)
+
+---
+
+### 🏆 Achievements:
+
+- 🌟 **Problem Solver**: Solved 200+ problems on LeetCode and HackerRank.
+- 🏅 **Certifications**: Advanced Python, JavaScript for Web Development.
+
+---
+
+### 🔗 Connect with Me:
+
+Feel free to connect with me on LinkedIn, Twitter, and Instagram (links above). Let's collaborate and create amazing solutions together!
