@@ -12,7 +12,7 @@
 
 ---
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tushar.Nagare)
+## Glad to see you here!
 
 I am a **Computer Engineering Student** passionate about **programming, technology**, and **problem-solving**. I aim to leverage my skills in software development and engineering to build impactful solutions.
 
@@ -36,7 +36,12 @@ I am a **Computer Engineering Student** passionate about **programming, technolo
 
 ### 🛠️ Skills:
 
-- **Languages**: C, C++, Python, Java.
+- **Languages**: 
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="40" alt="C" /></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="40" alt="C++" /></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="Python" /></a>
+  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" alt="Java" /></a>
+
 - **Web Development**: HTML, CSS, JavaScript, React.
 - **Tools**: Git, GitHub, VS Code.
 - **Technologies**: AI/ML Basics, REST APIs, Full Stack Web Development.
