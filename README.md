@@ -25,7 +25,7 @@ I am a **Computer Engineering Student** passionate about **programming, technolo
   - **Programming Languages**: C, C++, Python, Java.
   - **Web Development**: HTML, CSS, JavaScript, Full Stack Development.
 - 🛠️ **Current Work**: 
-  - Data Structures and Algorithms (DSA) using C, C++, and Python.
+  - Data Structures and Algorithms (DSA) using C++, & Java .
   - Designing user-friendly websites.
 - 🌟 **Key Projects**: Built a responsive website for health and well-being.
 - 🌱 **Learning Goals**:
