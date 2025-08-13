@@ -9,7 +9,7 @@
 </div>-->
 
 </div>
-<img src="Assets/GitHub.gif">
+<img src="Assets/CLine.gif">
  
 
 ## Glad to see you here!
