@@ -65,6 +65,14 @@ I am a **Computer Engineering Student** passionate about **programming, technolo
 - 🏅 **Certifications**: Advanced Python, JavaScript for Web Development.
 
 ---
+## 📊 GitHub Stats
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
 
 ### 🔗 Connect with Me:
 
