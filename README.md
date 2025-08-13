@@ -1,8 +1,22 @@
+<!--Header Image --->
+<p align="center">
+  <img src="Assets/Photo.jpeg">
+</p>
 
 <!--Welcome Prompt --->
 <div align="center">
     
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&pause=1000&color=0ea691&center=true&width=900&height=100&lines=%3C+Tushar+Nagare+%2F+%3E)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Tushar%20Nagare&fontSize=42&fontAlignY=35&color=gradient&customColorList=3&section=header&reversal=false&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20DSA&descAlignY=55&descSize=16&stroke=0&strokeWidth=0&animation=fadeIn&gradientFrom=C1E8DA&gradientTo=264E70&fontColor=0C2233" />
+</p>
+
+###  About Me  <img  src="Assets/stats.gif" height="35"/>
+
+
+I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech enthusiast and a Active learner from [Maharashtra, India 🌍](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7). Currently seeking opportunities to explore this unreal realm of Tech. I see my self as student fueled by continuous learning, innovative ideas and hardwork. Aiming to be great at this field !!
+
+
+
 
 <!--<div align="center">
 <img src="Assests/GradientLine.gif" align="center" style="width: 100%"/>
@@ -14,7 +28,7 @@
 
 ## Glad to see you here!
 
-I### Github Trophies <img  src="Assests/Trophy.gif" height="35"/>  
+### Github Trophies <img  src="Assests/Trophy.gif" height="35"/>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tusshar123&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -113,6 +127,19 @@ I### Github Trophies <img  src="Assests/Trophy.gif" height="35"/>
     </td>
   </tr>
 </table>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
+
+<div align=center>
+
+<p align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Tusshar123&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Tusshar123&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
+</p>
+  <p align="center">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Tusshar123&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="40%"/> 
+</p>
+<img src="Assests/CLine.gif">
+
 
 ## 📈 Contribution Graph  
 
