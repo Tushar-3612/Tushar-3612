@@ -140,6 +140,25 @@ I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 </p>
 <img src="Assests/CLine.gif">
 
+<h2 align="center"><img src="Assests/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="Assests/Follow.gif" alt="Robot" width="45"/></h2>
+
+<div id="header" align="center">
+  <!-- Profile Views (Starting 50+) -->
+  <img src="https://img.shields.io/badge/Profile%20Views-450-00bfbf?style=for-the-badge" alt="Profile Views"/>
+</div>
+
+<p align="center">
+  <!-- GitHub Stars -->
+  <a href="https://github.com/Tusshar123?tab=repositories&sort=stargazers">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Tusshar123?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" >
+  </a>
+  
+  <!-- GitHub Followers -->
+  <a href="https://github.com/Tusshar123?tab=followers">
+    <img src="https://img.shields.io/github/followers/Tusshar123?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" />
+  </a>
+</p>
+
 
 ## 📈 Contribution Graph  
 
@@ -147,6 +166,9 @@ I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusshar123&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
+<img src="Assets/CLine.gif">
+
+<img src="Assets/github-snake.svg">
 
  ## 🤝 Connect With Me  
 
