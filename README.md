@@ -9,6 +9,7 @@
 </div>-->
 
 </div>
+<img src="Assets/GitHub.gif">
  
 
 ## Glad to see you here!
