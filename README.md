@@ -175,8 +175,9 @@ I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 <p align="center">
   <a href="https://www.linkedin.com/in/tushar-nagare-5a17b9287/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://x.com/Tushar__3612"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+    <a href="mailto:tusharnagare2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
   <a href="https://www.instagram.com/tushar__3612/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="mailto:tusharnagare3612@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+ 
 </p>
 
 ---
