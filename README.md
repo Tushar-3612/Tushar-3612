@@ -30,7 +30,7 @@ I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 
 ### Github Trophies <img  src="Assests/Trophy.gif" height="35"/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tusshar123&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NAGARETUSHAR&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
  
@@ -132,11 +132,11 @@ I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 <div align=center>
 
 <p align="center">
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Tusshar123&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Tusshar123&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=NAGARETUSHAR&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NAGARETUSHAR&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
 </p>
   <p align="center">
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Tusshar123&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="40%"/> 
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NAGARETUSHAR&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true"width="40%"/> 
 </p>
 <img src="Assests/CLine.gif">
 
@@ -149,13 +149,13 @@ I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 
 <p align="center">
   <!-- GitHub Stars -->
-  <a href="https://github.com/Tusshar123?tab=repositories&sort=stargazers">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Tusshar123?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" >
+  <a href="https://github.com/NAGARETUSHAR?tab=repositories&sort=stargazers">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NAGARETUSHAR?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" >
   </a>
   
   <!-- GitHub Followers -->
-  <a href="https://github.com/Tusshar123?tab=followers">
-    <img src="https://img.shields.io/github/followers/Tusshar123?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" />
+  <a href="https://github.com/NAGARETUSHAR?tab=followers">
+    <img src="https://img.shields.io/github/followers/NAGARETUSHAR?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" />
   </a>
 </p>
 
@@ -163,7 +163,7 @@ I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusshar123&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAGARETUSHAR&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 <img src="Assets/CLine.gif">
