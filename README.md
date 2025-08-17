@@ -203,7 +203,7 @@ I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NAGARETUSHAR&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-3612&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 <img src="Assets/CLine.gif">
