@@ -21,7 +21,7 @@ I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 
 ### Github Trophies <img  src="Assets/Trophy.gif" height="35"/>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tushar-3612&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tushar-3612&theme=onedark&row=2&column=4&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- ====== TECH STACK ====== -->
@@ -100,8 +100,11 @@ I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 <h2 align="center"><img src="Assets/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="Assets/Follow.gif" alt="Robot" width="45"/></h2>
 
 <div id="header" align="center">
-  <!-- Profile Views (Starting 50+) -->
-  <img src="https://img.shields.io/badge/Profile%20Views-450-00bfbf?style=for-the-badge" alt="Profile Views"/>
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Tushar-3612&style=for-the-badge&color=00bfbf&label=Profile+Views" alt="Profile Views"/>
+  
+  <!-- Total Contributions Counter -->
+  <img src="https://img.shields.io/badge/Total%20Contributions-1.2k+-00bfbf?style=for-the-badge&logo=github" alt="Total Contributions"/>
 </div>
 
 <p align="center">
@@ -114,17 +117,35 @@ I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
   <a href="https://github.com/Tushar-3612?tab=followers">
     <img src="https://img.shields.io/github/followers/Tushar-3612?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" />
   </a>
+  
+  <!-- Repository Count -->
+  <a href="https://github.com/Tushar-3612?tab=repositories">
+    <img alt="GitHub Repositories" src="https://img.shields.io/badge/Repositories-15+-00bfbf?style=for-the-badge&logo=github&labelColor=008b8b" />
+  </a>
 </p>
 
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-3612&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
+<!-- Contribution Metrics -->
+<div align="center">
+  
+  <!-- Last year contributions -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-3612&theme=react-dark&hide_border=true&area=true&custom_title=Last%20Year%20Contributions" width="95%"/>
+  
+  <!-- Contribution stats -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Tushar-3612&show_icons=true&locale=en&theme=react&hide_border=true" alt="Tushar-3612" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tushar-3612&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Tushar-3612" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <img src="Assets/CLine.gif">
 
+<!-- Snake animation -->
 <img src="Assets/github-snake.svg">
 
  ## 🤝 Connect With Me  
