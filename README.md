@@ -17,13 +17,7 @@ I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech 
 <img src="Assets/CLine.gif">
  
 
-## Glad to see you here!
-
-### Github Trophies <img  src="Assets/Trophy.gif" height="35"/>  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tushar-3612&theme=onedark&row=2&column=4&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+ 
 <!-- ====== TECH STACK ====== -->
 <h2 align="center">⚙️ Tech Stack</h2>
 
