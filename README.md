@@ -11,130 +11,61 @@
 
 ###  About Me  <img  src="Assets/stats.gif" height="35"/>
 
-I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech enthusiast and a Active learner from [Maharashtra, India 🌍](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7). Currently seeking opportunities to explore this unreal realm of Tech. I see my self as student fueled by continuous learning, innovative ideas and hardwork. Aiming to be great at this field !!
-
+I am Tushar, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech enthusiast and an Active learner from [Maharashtra, India 🌍](https://maps.app.goo.gl/v4ZSNmDiyxSUZwAY7). Currently seeking opportunities to explore this unreal realm of Tech. I see myself as student fueled by continuous learning, innovative ideas and hard work. Aiming to be great at this field !!
 </div>
-<img src="Assets/CLine.gif">
- 
 
- 
+<img src="Assets/CLine.gif">
+
 <!-- ====== TECH STACK ====== -->
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48"/><br>Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>C++</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind</td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br>Express</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git</td>
   </tr>
 </table>
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
 
-<div align=center>
-
 <p align="center">
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Tushar-3612&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true"  width="48%"/>
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Tushar-3612&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true"  width="48%"/>
 </p>
-  
+
 <p align="center">
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Tushar-3612&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" width="40%"/> 
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Tushar-3612&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" width="40%"/> 
 </p>
 
 <img src="Assets/CLine.gif">
 
-<h2 align="center"><img src="Assets/Follow.gif" alt="Robot" width="45"/> Profile Insights <img src="Assets/Follow.gif" alt="Robot" width="45"/></h2>
+<h2 align="center"><img src="Assets/Follow.gif" width="45"/> Profile Insights <img src="Assets/Follow.gif" width="45"/></h2>
 
-<div id="header" align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Tushar-3612&style=for-the-badge&color=00bfbf&label=Profile+Views" alt="Profile Views"/>
-  
-  <!-- Total Contributions Counter -->
-  <img src="https://img.shields.io/badge/Total%20Contributions-1.2k+-00bfbf?style=for-the-badge&logo=github" alt="Total Contributions"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tushar-3612&style=for-the-badge&color=00bfbf&label=Profile+Views"/>
+  <img src="https://img.shields.io/badge/Total%20Contributions-1.2k+-00bfbf?style=for-the-badge&logo=github"/>
 </div>
 
 <p align="center">
-  <!-- GitHub Stars -->
-  <a href="https://github.com/Tushar-3612?tab=repositories&sort=stargazers">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Tushar-3612?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" >
-  </a>
-  
-  <!-- GitHub Followers -->
-  <a href="https://github.com/Tushar-3612?tab=followers">
-    <img src="https://img.shields.io/github/followers/Tushar-3612?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" />
-  </a>
-  
-  <!-- Repository Count -->
-  <a href="https://github.com/Tushar-3612?tab=repositories">
-    <img alt="GitHub Repositories" src="https://img.shields.io/badge/Repositories-15+-00bfbf?style=for-the-badge&logo=github&labelColor=008b8b" />
-  </a>
+  <a href="https://github.com/Tushar-3612?tab=repositories&sort=stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Tushar-3612?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b" ></a>
+  <a href="https://github.com/Tushar-3612?tab=followers"><img src="https://img.shields.io/github/followers/Tushar-3612?logo=github&style=for-the-badge&color=00bfbf&labelColor=008b8b"/></a>
+  <a href="https://github.com/Tushar-3612?tab=repositories"><img alt="GitHub Repositories" src="https://img.shields.io/badge/Repositories-15+-00bfbf?style=for-the-badge&logo=github&labelColor=008b8b"/></a>
 </p>
 
-<!-- Contribution Metrics -->
 <div align="center">
-  
-  <!-- Last year contributions -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar-3612&theme=react-dark&hide_border=true&area=true&custom_title=Last%20Year%20Contributions" width="95%"/>
-  
-  <!-- Contribution stats -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Tushar-3612&show_icons=true&locale=en&theme=react&hide_border=true" alt="Tushar-3612" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tushar-3612&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Tushar-3612" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 <img src="Assets/CLine.gif">
